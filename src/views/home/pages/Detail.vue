@@ -111,7 +111,7 @@ import CommentService from '../../../api/service/comment_service';
 import TopicService from '../../../api/service/topic_service';
 import moment from 'moment';
 import { marked } from 'marked'
-import hljs from 'highlight.js';  // 需要安装 highlight.js, 例如：npm i highlight.js
+import hljs from 'highlight.js';
 import 'highlight.js/styles/github-dark.css';  // 代码高亮样式
 
 export default {
